@@ -4,7 +4,10 @@ This Modal Video Player is Compatible to any Screen or any Android Devices..
 SharePoint Online SPFX - Modal Video Player on Page Load and Redirect to specific URL if needed. 
 Video Will play just once to user to open page. Video URL can be change to play other video
 ----------------------------------------------------------------------------------------------
+
 Steps how to use -
+
+
 Download .sppkg file and upload to your App Catatlog then add an app to your site and add Modal Video Player app.
 Open you page and add Modal Video Webpart to Your Page.
 Edit webpart and add Title of the Web part which will show on on top of Modal.
