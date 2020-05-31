@@ -13,4 +13,4 @@ Add your redirect URL or just keep it # if you dont want to redirect anywhere.
 
 
 
-COntact me for more custom modal video player - tejdixit@gmail.com
+Contactfor more custom modal video player - tejdixit@gmail.com
